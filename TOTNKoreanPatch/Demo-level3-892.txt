@@ -1,0 +1,180 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 97
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 1451
+ 1 string m_Name = ""
+ 0 PPtr<$TMP_Text> QuestionText
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 827
+ 0 PPtr<$TMP_Text> QuestionKanaText
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 843
+ 0 PPtr<$TMP_Text> QuestionENText
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 842
+ 0 PPtr<$TMP_Text> QuestionNextText
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 0 PPtr<$OneShotEffect> EffectBG
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 939
+ 0 PPtr<$OneShotEffect> EffectShake
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 889
+ 0 vector Questions
+  1 Array Array (4 items)
+   0 int size = 4
+   [0]
+    0 PPtr<$TextAsset> data
+     0 int m_FileID = 3
+     0 SInt64 m_PathID = 39
+   [1]
+    0 PPtr<$TextAsset> data
+     0 int m_FileID = 3
+     0 SInt64 m_PathID = 38
+   [2]
+    0 PPtr<$TextAsset> data
+     0 int m_FileID = 3
+     0 SInt64 m_PathID = 40
+   [3]
+    0 PPtr<$TextAsset> data
+     0 int m_FileID = 3
+     0 SInt64 m_PathID = 201
+ 0 mumiClip se_youi
+  0 PPtr<$AudioClip> clip
+   0 int m_FileID = 0
+   0 SInt64 m_PathID = 0
+  0 float volume = 0.5
+  0 float pitch = 1
+  0 float Blend3D = 1
+  1 UInt8 loop = 0
+  1 UInt8 timescale = 0
+ 0 mumiClip se_po
+  0 PPtr<$AudioClip> clip
+   0 int m_FileID = 3
+   0 SInt64 m_PathID = 57
+  0 float volume = 0.3
+  0 float pitch = 1
+  0 float Blend3D = 0
+  1 UInt8 loop = 0
+  1 UInt8 timescale = 0
+ 0 mumiClip se_success
+  0 PPtr<$AudioClip> clip
+   0 int m_FileID = 3
+   0 SInt64 m_PathID = 76
+  0 float volume = 0.4
+  0 float pitch = 1
+  0 float Blend3D = 0
+  1 UInt8 loop = 0
+  1 UInt8 timescale = 0
+ 0 mumiClip se_failed
+  0 PPtr<$AudioClip> clip
+   0 int m_FileID = 3
+   0 SInt64 m_PathID = 73
+  0 float volume = 1
+  0 float pitch = 1
+  0 float Blend3D = 0
+  1 UInt8 loop = 0
+  1 UInt8 timescale = 0
+ 0 mumiClip se_syutudai
+  0 PPtr<$AudioClip> clip
+   0 int m_FileID = 3
+   0 SInt64 m_PathID = 68
+  0 float volume = 0.6
+  0 float pitch = 1
+  0 float Blend3D = 0
+  1 UInt8 loop = 0
+  1 UInt8 timescale = 0
+ 0 mumiClip se_dong
+  0 PPtr<$AudioClip> clip
+   0 int m_FileID = 3
+   0 SInt64 m_PathID = 75
+  0 float volume = 0.5
+  0 float pitch = 1
+  0 float Blend3D = 0
+  1 UInt8 loop = 0
+  1 UInt8 timescale = 0
+ 0 mumiClip se_finish
+  0 PPtr<$AudioClip> clip
+   0 int m_FileID = 0
+   0 SInt64 m_PathID = 0
+  0 float volume = 0.5
+  0 float pitch = 1
+  0 float Blend3D = 1
+  1 UInt8 loop = 0
+  1 UInt8 timescale = 0
+ 0 mumiClip se_happyou
+  0 PPtr<$AudioClip> clip
+   0 int m_FileID = 3
+   0 SInt64 m_PathID = 58
+  0 float volume = 0.5
+  0 float pitch = 1
+  0 float Blend3D = 1
+  1 UInt8 loop = 0
+  1 UInt8 timescale = 0
+ 0 mumiClip se_sindeiku
+  0 PPtr<$AudioClip> clip
+   0 int m_FileID = 3
+   0 SInt64 m_PathID = 64
+  0 float volume = 0.6
+  0 float pitch = 1
+  0 float Blend3D = 0
+  1 UInt8 loop = 0
+  1 UInt8 timescale = 0
+ 0 mumiClip se_death
+  0 PPtr<$AudioClip> clip
+   0 int m_FileID = 3
+   0 SInt64 m_PathID = 59
+  0 float volume = 0.6
+  0 float pitch = 1
+  0 float Blend3D = 0
+  1 UInt8 loop = 0
+  1 UInt8 timescale = 0
+ 0 mumiClip se_beep
+  0 PPtr<$AudioClip> clip
+   0 int m_FileID = 3
+   0 SInt64 m_PathID = 71
+  0 float volume = 0.9
+  0 float pitch = 1
+  0 float Blend3D = 0
+  1 UInt8 loop = 0
+  1 UInt8 timescale = 0
+ 0 mumiClip se_katakata
+  0 PPtr<$AudioClip> clip
+   0 int m_FileID = 3
+   0 SInt64 m_PathID = 77
+  0 float volume = 0.9
+  0 float pitch = 1
+  0 float Blend3D = 0
+  1 UInt8 loop = 0
+  1 UInt8 timescale = 0
+ 0 PPtr<$TEvent> tevent
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 890
+ 0 float timescale = 1.2083334
+ 0 int defaultAudioID = 1
+ 0 PPtr<$Animator> anim
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 639
+ 0 PPtr<$BindSwitch> setter
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 934
+ 0 PPtr<$ExplainWindow> explainWindow
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 870
+ 0 PPtr<$HealthBar> bar
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 902
+ 0 PPtr<$GameObject> gameOverWindow
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 227
+ 0 PPtr<$RankView> rankView
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 864
+ 0 PPtr<$GameObject> BackTitle
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 218
