@@ -1,0 +1,135 @@
+﻿id	ja	en	zh-CN	zh-TW	ko
+tt_titletext	タイピングオブザネット				
+tt_pressStart	Spaceキーで始める				
+ch_talk_001	ジェルばんは！	Hey cuties!	小天使请安！		젤하!
+ch_talk_002	タイピング・エンジェル	It's Kangel, your favorite	这里是当代打字通小天使，		타자 천사
+ch_talk_003	超てんちゃんだよ	tippy-typing angel!	超天酱！		초텐이야!
+ch_talk_004	今日はおまえらと……	Guess what we're doing today?	今天人家要带你们……		오늘은 너희들과...
+ch_talk_005	ネットスラングを学んでいくぞ！	We’re exploring internet slang together!	一起学习网络用语！		인터넷 속어를 배워볼거야!
+ch_talk_006	天使といっしょに汗と青春と	Now, get your keyboard ready	跟随天使，		이 천사와 함께
+ch_talk_007	キーボードを打ち込んで	and work those fingers!	用键盘挥洒汗水与青春！		땀과 청춘의 키보드를 준비해!
+ch_talk_008	エンジョイ&	It's gonna be super epic	一起享受这个——		아주 즐겁고
+ch_talk_009	エキサイティングっ！！！	and super fun!	亦可赛艇的过程吧！！！		아주 재미있을거야!
+ch_talk_010	コメントを入力	Add a comment...	发点什么？		댓글 작성...
+ch_talk_011	Ready…	Ready...	Ready……		Ready...
+					
+					
+ch_talk_101	むむっ	Ngh...	唔唔？		흠...
+ch_talk_102	キミ	Not bad...	你……		너...
+ch_talk_103	やるねぇ……	Not bad at all.	还挺能打的嘛		좀 치는데...
+ch_talk_104	それじゃあ	Well, then...	既然这样……		그렇다면...
+ch_talk_105	ちょっと	Let's take it	接下来		속도를 올려볼까?
+ch_talk_106	ギアを	up a notch.	人家要		뒤쳐지지 않도록
+ch_talk_107	上げていくから	You can handle this, right?	速度加快了		할 수 있겠지?
+ch_talk_108	振り落とされないように	Keep up, or you're gonna	你能跟上		그럼 제대로
+ch_talk_109	覚悟汁っ！	get pwned!	超天酱的斯必得吗？！		각오하도록 해!
+					
+ch_talk_201	<fast>まさか、こんなところまで	Wow, you're a lot better	没想到……		대단해...
+ch_talk_202	<fast>ついてこれるなんてなっ……	than I thought...	竟然不分高低！		여기까지 따라오다니!
+ch_talk_203	<fast>もうおまいのネチケット力は最強だよ	Pretty based and epic, in fact.	看来你已成为顶级素质网民		너는 인성 바른 네티즌이구나.
+ch_talk_204	<fast>半年ROMってきた甲斐があったね	All that shitposting really paid off, huh?	潜水半年还是很有成效的		반년 동안 눈팅만 한 보람이 있어.
+ch_talk_205	<fast>これからは	Now, go.	从今往后可以挺起胸膛		지금부터는 훌륭한
+ch_talk_206	<fast>立派なInternet Explorer	Sally forth, my little internet explorer.	以Internet Explorer		 인터넷 탐험가(정보의 바다의 모험가)로서,
+ch_talk_207	<fast>（電子の海の冒険者）として	Show those sweet summer children	（电子之海的冒险者）自居		가슴 쫙 펴고
+ch_talk_208	<fast>胸張って掲示板荒らしてきな	who the GOAT poster is!	在网上到处巨魔啦		게시판에 분탕질을 쳐봐!
+ch_talk_209	†昇天†	🙏BLESS🙏	†升天†		†승천†
+					
+stg_001	ステージ 1	Level 1	第1关		레벨 1
+stg_002	ステージ 2	Level 2	第2关		레벨 2
+stg_003	ステージ 3	Level 3	第3关		레벨 3
+stg_004	【フリック入力で】超てんちゃんとわくわくタイピングバトル【いいじゃん】	(Swipe Keyboard FTW) Super Epic Typing Battle with KAngel (PC Supremacy Over)	【学⑨宫格】超天酱的完美打字教室【不是更快吗】		자리표시자
+stg_005	【キーボードも】超てんちゃんと最強タイピングバトル【アンチも叩け！】	(Smash That Keyboard) GOAT Typing Battle with KAngel (And Those Haters!)	【我喷键盘侠】与超天酱决战手速之巅【发自真心】		자리표시자
+stg_006	タ イ ピ ン グ ・ オ ブ ・ ザ ・ ネ ッ ト	THE TYPING OF THE INTERDEAD	网　虫　打　字　通　：　爆　杀		자리표시자
+stg_007	ハイスコア	High Score	最高得分		최고 점수
+stg_008	ランク C	Rank: C	评级 C		랭크 C
+stg_009	ランク B	Rank: B	评级 B		랭크 B
+stg_010	ランク A	Rank: A	评级 A		랭크 A
+stg_011	ランク S	Rank: S	评级 S		랭크 S
+stg_012					
+stg_013					
+stg_014					
+stg_015					
+					
+					
+					
+title_001	NEEDY GIRL OVERDOSE タイピング オブ ザ ネット	NEEDY STREAMER OVERLOAD: Typing of The Net	主播女孩重度依赖 网络梗打字通		니디 걸 오버도즈: 타이핑 오브 더 넷
+title_002	<b>©WSS playground / mumimumi / veryOK / Atree</b> ・ 3 本の動画	<b>©WSS playground / mumimumi / veryOK / Atree</b> ・ 3 videos	<b>©WSS playground / mumimumi / veryOK / Atree</b> ・ 3 个视频		<b>©WSS playground / mumimumi / veryOK / Atree</b> ・ 동영상 3개
+title_003	超てんちゃんといっしょにタイピングをしたりネチケットを学べるゲームです。	Flex your typing and explore the ins and outs of the internet with KAngel.	与超天酱一起练习打字，并学习使用互联网的基础礼仪。		초텐과 함께 타자연습을 하고 네티켓을 배울 수 있는 게임이야.
+title_004	登録済み	Subscribed	已订阅		구독중
+title_005	チャンネル登録	Subscribe	订阅频道		구독
+title_006	ライブ	LIVE	直播		라이브
+title_007	オプション	Settings	设置		설정
+					
+ops_001	言語 (Language)	Language	语言 (Language)		언어 (Language)
+ops_002	日本語	日本語	日本語		日本語
+ops_003	英語	English	English		English
+ops_004	簡体字	中国語 (簡体字)	简体中文		簡体字
+ops_005	繁体字	 	 		
+ops_006	韓国語	Korean	Korean		한국어
+ops_007	BGM ボリューム	BGM Volume	背景音量		음악 볼륨
+ops_008	SE ボリューム	SFX Volume	效果音量		효과음 볼륨
+ops_009	0%	0%	0%		0%
+ops_010	20%	20%	20%		20%
+ops_011	40%	40%	40%		40%
+ops_012	60%	60%	60%		60%
+ops_013	80%	80%	80%		80%
+ops_014	100%	100%	100%		100%
+ops_015	画面設定	Display Settings	画面设置		화면 설정
+ops_016	フルスクリーン	Full Screen	全屏		전체 화면
+ops_017	ウィンドウ（小）	Windowed (Small)	小窗		창 (작게)
+ops_018	ウィンドウ（大）	Windowed (Large)	大窗		창 (크게)
+					
+					
+					
+					
+playtex_001	◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯<br><br>◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯<br>◯◯◯◯◯◯◯◯◯◯◯◯◯<br>◯◯◯◯◯◯◯◯◯<br><br>◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯	◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯<br><br>◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯<br>◯◯◯◯◯◯◯◯◯◯◯◯◯<br>◯◯◯◯◯◯◯◯◯<br><br>◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯	◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯<br><br>◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯<br>◯◯◯◯◯◯◯◯◯◯◯◯◯<br>◯◯◯◯◯◯◯◯◯<br><br>◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯		◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯<br><br>◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯<br>◯◯◯◯◯◯◯◯◯◯◯◯◯<br>◯◯◯◯◯◯◯◯◯<br><br>◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯◯
+playtex_002					
+playtex_003	🎀超絶最かわ🎀 てんしちゃん	☆OMGkawaiiAngel☆	🎀超绝最可爱🎀天使酱		🎀최고귀염뽀짝🎀천사
+playtex_004	高評価	Like	赞		좋아요
+playtex_005	チャンネル登録	Subscribe	订阅频道		구독
+playtex_006	共有	Share	分享		공유
+playtex_007	保存	Save	保存		저장
+					
+viewer_001	人の視聴者	 viewers	人正在观看		시청 중
+viewer_002	人の視聴者	 viewers	人正在观看		시청 중
+					
+ui_stage_01	タイトルに戻る	Return to Title	返回标题画面		타이틀 화면으로 돌아가기
+ui_stage_02	ゲームオーバー	GAME OVER	游戏结束		게임 오버
+ui_stage_03	ハイスコア更新！	New High Score!	最高纪录更新！		새로운 최고 점수!
+ui_stage_04	あなたは負けました	YOU LOSE	您在比赛中落败。		패배했습니다.
+ui_stage_05	ステージセレクトに戻る	Return to Level Select	返回关卡选择		레벨 선택으로 돌아가기
+ui_stage_06	解説	:	:		:
+ui_stage_07	検索	Search	搜索		검색
+ui_stage_08	ライフ	Life	生命		생명
+ui_stage_09					
+ui_stage_10					
+ui_stage_11					
+					
+					
+					
+play_nice	ナイス！	Nice!	奈斯！		나이스!
+kuru_001			全拼		1
+kuru_002			微软双拼		2
+kuru_003			搜狗双拼		3
+kuru_004			拼音输入法		4
+					
+outergame_001	NEEDY GIRL OVERDOSE ENDLESS NIGHTMARE	NEEDY GIRL OVERDOSE ENDLESS NIGHTMARE	NEEDY GIRL OVERDOSE ENDLESS NIGHTMARE		NEEDY GIRL OVERDOSE ENDLESS NIGHTMARE
+credit_100	Credit	Credit	Credit		Credit
+					
+option5_00	3	3	3		3
+option5_01	5	5	5		5
+option5_02	7	7	7		7
+option5_03	9	9	9		9
+option5_04	11	11	11		11
+option5_05	13	13	13		13
+option5_06	15	15	15		15
+option5_07	17	17	17		17
+option5_08	19	19	19		19
+option5_09	21	21	21		21
+option5_10	23	23	23		23
+option5_11	25	25	25		25
+option5_12	27	27	27		27
+option5_13	29	29	29		29
+option5_14	31	31	31		31
+option5_15	∞	∞	∞		∞
+option5_16	1	1	1		1

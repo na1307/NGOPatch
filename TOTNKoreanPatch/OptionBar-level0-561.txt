@@ -1,0 +1,39 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 101
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 99
+ 1 string m_Name = ""
+ 0 string options
+  1 Array Array (4 items)
+   0 int size = 4
+   [0]
+    1 string data = "ops_002"
+   [1]
+    1 string data = "ops_003"
+   [2]
+    1 string data = "ops_004"
+   [3]
+    1 string data = "ops_006"
+ 0 PPtr<$OptionsActivator> parentActivator
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 0 PPtr<$TMP_Text> daimei_tx
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 464
+ 1 string daimei = "ops_001"
+ 0 PPtr<$TMP_Text> select_tx
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 465
+ 0 mumiClip optionSE
+  0 PPtr<$AudioClip> clip
+   0 int m_FileID = 2
+   0 SInt64 m_PathID = 65
+  0 float volume = 0.9
+  0 float pitch = 1
+  0 float Blend3D = 0
+  1 UInt8 loop = 0
+  1 UInt8 timescale = 0
